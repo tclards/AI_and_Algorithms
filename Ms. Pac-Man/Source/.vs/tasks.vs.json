@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Exec",
+      "appliesTo": "System/game/Exec.java",
+      "type": "launch"
+    }
+  ]
+}

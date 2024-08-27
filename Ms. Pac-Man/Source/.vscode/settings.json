@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "exec/lib/afi.MsPacManAFI.jar"
+    ],
+    "java.project.sourcePaths": [
+        "System",
+        "Student Agent",
+        "exec"
+    ]
+}
