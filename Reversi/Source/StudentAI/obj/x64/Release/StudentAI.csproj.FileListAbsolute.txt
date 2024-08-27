@@ -1,0 +1,13 @@
+C:\Users\tyler\Desktop\AI\Reversi\Source\StudentAI\bin\x64\Release\FullSailAFI.GamePlaying.StudentAI.dll
+C:\Users\tyler\Desktop\AI\Reversi\Source\StudentAI\bin\x64\Release\FullSailAFI.GamePlaying.StudentAI.pdb
+C:\Users\tyler\Desktop\AI\Reversi\Source\StudentAI\bin\x64\Release\FullSailAFI.GamePlaying.CoreAI.dll
+C:\Users\tyler\Desktop\AI\Reversi\Source\StudentAI\bin\x64\Release\FullSailAFI.GamePlaying.ExampleAI.dll
+C:\Users\tyler\Desktop\AI\Reversi\Source\StudentAI\bin\x64\Release\Graphviz4Net.dll
+C:\Users\tyler\Desktop\AI\Reversi\Source\StudentAI\bin\x64\Release\Antlr3.Runtime.dll
+C:\Users\tyler\Desktop\AI\Reversi\Source\StudentAI\bin\x64\Release\FullSailAFI.GamePlaying.CoreAI.pdb
+C:\Users\tyler\Desktop\AI\Reversi\Source\StudentAI\bin\x64\Release\Graphviz4Net.pdb
+C:\Users\tyler\Desktop\AI\Reversi\Source\StudentAI\obj\x64\Release\StudentAI.csproj.AssemblyReference.cache
+C:\Users\tyler\Desktop\AI\Reversi\Source\StudentAI\obj\x64\Release\StudentAI.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\AI\Reversi\Source\StudentAI\obj\x64\Release\StudentAI.csproj.Up2Date
+C:\Users\tyler\Desktop\AI\Reversi\Source\StudentAI\obj\x64\Release\FullSailAFI.GamePlaying.StudentAI.dll
+C:\Users\tyler\Desktop\AI\Reversi\Source\StudentAI\obj\x64\Release\FullSailAFI.GamePlaying.StudentAI.pdb

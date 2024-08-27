@@ -1,0 +1,7 @@
+﻿  PathSearch.cpp
+C:\Users\tyler\Desktop\school stuff\Classes\AFI\AIMaterial\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(252,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tyler\Desktop\school stuff\Classes\AFI\AIMaterial\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(256,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tyler\Desktop\school stuff\Classes\AFI\AIMaterial\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(382,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tyler\Desktop\school stuff\Classes\AFI\AIMaterial\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(383,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tyler\Desktop\school stuff\Classes\AFI\AIMaterial\Lab Projects\B - Path Planner\Project\PathSearch\PathSearch.cpp(385,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  PathSearch.vcxproj -> C:\Users\tyler\Desktop\school stuff\Classes\AFI\AIMaterial\Lab Projects\B - Path Planner\Project\Debug\PathSearch.dll

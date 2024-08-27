@@ -1,0 +1,6 @@
+C:\Users\tyler\Desktop\AI\Flocking\Source\Core\bin\Release\CoreAI.dll
+C:\Users\tyler\Desktop\AI\Flocking\Source\Core\bin\Release\CoreAI.pdb
+C:\Users\tyler\Desktop\AI\Flocking\Source\Core\obj\Release\Core.csproj.AssemblyReference.cache
+C:\Users\tyler\Desktop\AI\Flocking\Source\Core\obj\Release\Core.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\AI\Flocking\Source\Core\obj\Release\CoreAI.dll
+C:\Users\tyler\Desktop\AI\Flocking\Source\Core\obj\Release\CoreAI.pdb

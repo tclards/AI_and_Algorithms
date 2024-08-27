@@ -1,0 +1,11 @@
+C:\Users\tyler\Desktop\AI\Reversi\Source\CoreAI\bin\x64\Release\FullSailAFI.GamePlaying.CoreAI.dll
+C:\Users\tyler\Desktop\AI\Reversi\Source\CoreAI\bin\x64\Release\FullSailAFI.GamePlaying.CoreAI.pdb
+C:\Users\tyler\Desktop\AI\Reversi\Source\CoreAI\bin\x64\Release\FullSailAFI.GamePlaying.ExampleAI.dll
+C:\Users\tyler\Desktop\AI\Reversi\Source\CoreAI\bin\x64\Release\Graphviz4Net.dll
+C:\Users\tyler\Desktop\AI\Reversi\Source\CoreAI\bin\x64\Release\Antlr3.Runtime.dll
+C:\Users\tyler\Desktop\AI\Reversi\Source\CoreAI\bin\x64\Release\Graphviz4Net.pdb
+C:\Users\tyler\Desktop\AI\Reversi\Source\CoreAI\obj\x64\Release\CoreAI.csproj.AssemblyReference.cache
+C:\Users\tyler\Desktop\AI\Reversi\Source\CoreAI\obj\x64\Release\CoreAI.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\AI\Reversi\Source\CoreAI\obj\x64\Release\CoreAI.csproj.Up2Date
+C:\Users\tyler\Desktop\AI\Reversi\Source\CoreAI\obj\x64\Release\FullSailAFI.GamePlaying.CoreAI.dll
+C:\Users\tyler\Desktop\AI\Reversi\Source\CoreAI\obj\x64\Release\FullSailAFI.GamePlaying.CoreAI.pdb
